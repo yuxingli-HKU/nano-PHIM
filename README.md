@@ -1,7 +1,7 @@
 # nano-Polarization Holographic Imaging Microscopy (nano-PHIM)
 
 ## Requirements
-Nano-PolarSRN is built with Python and pytorch.
+nanoscale polarization-sensitive super-resolution network (nano-PolarSRN) is built with Python and pytorch.
 
 * Python >= 3.7
 * PyTorch >= 1.7
