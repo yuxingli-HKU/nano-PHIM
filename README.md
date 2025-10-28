@@ -3,8 +3,8 @@
 ## Requirements
 Nano-PolarSRN is built with Python and pytorch.
 
-Python >= 3.7
-PyTorch >= 1.7
+* Python >= 3.7
+* PyTorch >= 1.7
 
 ## Additional data
 Additional data related to nano-PHIM are available in the form of marine rotifer swimming videos at the following link: https://drive.google.com/drive/folders/1fNZvJkZfcsJnvCsuv3uTIHIdHSJN4Vs0?usp=sharing
